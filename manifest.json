@@ -1,0 +1,21 @@
+{
+  "name": "سلسلة مطاعم أبو خميرة",
+  "short_name": "أبو خميرة",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fcf9f2",
+  "theme_color": "#b71c1c",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "images/logokh.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/logokh.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
